@@ -1,0 +1,3 @@
+[submodule "fds/themes/devise"]
+	path = fds/themes/devise
+	url = https://github.com/austingebauer/devise.git
